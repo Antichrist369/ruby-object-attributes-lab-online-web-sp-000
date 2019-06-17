@@ -4,6 +4,6 @@ class Person
   end 
   
   def name 
-    @name="beyonce"
+    @name="Beyonce"
   end 
 end
