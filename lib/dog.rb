@@ -12,7 +12,7 @@ class Dog
   end 
   
   def breed 
-    @breed="Bulldog"
+    @breed="Beagle"
   end 
 end
     
