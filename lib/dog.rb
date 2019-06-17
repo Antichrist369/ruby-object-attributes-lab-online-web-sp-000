@@ -1,2 +1,2 @@
-class Name 
-  def
+class Dog 
+  def 
